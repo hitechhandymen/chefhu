@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Chef Fu's",
-    "currentPage": "index.html",
+    "currentPage": "reservations.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -853,7 +853,7 @@
             "showArrow": true,
             "animText1": "Reservations",
             "animText2": "Meal Trip",
-            "animText3": "Culinary Journey",
+            "animText3": "",
             "typeSpeed": "20",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/20150313-spice-szechuan-peppercorn-vicky-wasik-1-1500x1125.jpg",
