@@ -165,7 +165,7 @@
             "buttonAlign": "right",
             "showArrow": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bannerimage-2-1600x1081.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bannerimage2-2000x2815.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2c3e50",
