@@ -1030,11 +1030,13 @@ blockquote {
 }
 #header4-1o .display-1 {
   font-weight: 700;
+  font-family: 'Arvo', serif;
 }
 #header4-1o .lead {
   color: #fff;
   text-transform: uppercase;
   margin-bottom: 0;
+  font-family: 'Arvo', serif;
 }
 #footer1-r .mbr-section-subtitle,
 #footer1-r .mbr-section-text {

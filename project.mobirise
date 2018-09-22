@@ -1563,20 +1563,10 @@
           "_anchor": "menu-q"
         },
         {
-          "_styles": {
-            ".display-1": {
-              "font-weight": "700"
-            },
-            ".lead": {
-              "color": "#fff",
-              "text-transform": "uppercase",
-              "margin-bottom": "0"
-            }
-          },
           "_params": {
             "showTitle": true,
             "showText": false,
-            "showButtons": true,
+            "showButtons": false,
             "showImage": true,
             "showArrow": true,
             "imageSize": 90,
@@ -1617,7 +1607,7 @@
               "active": true
             }
           },
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown4.png",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown5.png",
           "title": "Easy to Order.",
           "text": "free download",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Reservations</a>",
@@ -1626,7 +1616,12 @@
             "Theme"
           ],
           "_name": "header4",
-          "_anchor": "header4-1o"
+          "_anchor": "header4-1o",
+          "_customHTML": "<link href=\"https://fonts.googleapis.com/css?family=Arvo\" rel=\"stylesheet\">\n<section class=\"mbr-section mbr-section-hero mbr-section-full header4 mbr-section-with-arrow mbr-parallax-background mbr-after-navbar\" data-rv-view=\"437\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/3716682000-88124f9933-z-2000x1111.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(231, 76, 60);\"></div>\n\n    <div class=\"mbr-table-cell mbr-table-cell-vertical-bottom content-size\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-10 col-lg-offset-1 text-xs-center\">\n\n\n                    \n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"36\">Easy to Order.</h1>\n\n                    \n\n                     <div class=\"mbr-figure image-size\" style=\"width: 90%; font-size: 225px;\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-header4\"></span></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\">\n        <a href=\"#content1-1p\">\n            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/arrowdown5.png\">\n        </a>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".display-1 {\n  font-weight: 700;\n    font-family: 'Arvo', serif;\n}\n.lead {\n  color: #fff;\n  text-transform: uppercase;\n  margin-bottom: 0;\n    font-family: 'Arvo', serif;\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
