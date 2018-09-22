@@ -8,6 +8,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -26,7 +27,7 @@ textarea,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: undefined;
+  font-family: 'Arvo', serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -40,7 +41,7 @@ textarea,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: undefined;
+  font-family: 'Arvo', serif;
 }
 .btn {
   border-radius: 2.6em;
@@ -58,14 +59,14 @@ textarea,
   font-style: normal;
 }
 .mbr-author-name {
-  font-family: undefined;
+  font-family: 'Arvo', serif;
 }
 .mbr-author-desc {
   font-family: 'Arvo', serif;
   font-style: normal;
 }
 .mbr-plan-title {
-  font-family: undefined;
+  font-family: 'Arvo', serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
@@ -630,7 +631,7 @@ blockquote {
   font-style: normal;
 }
 .countdown .number {
-  font-family: undefined;
+  font-family: 'Arvo', serif;
 }
 .countdown1 .number-wrap {
   border-color: #c0392b;
@@ -675,7 +676,7 @@ blockquote {
 .person-info .title3,
 .team1 .title4,
 .person-info .title4 {
-  font-family: undefined;
+  font-family: 'Arvo', serif;
 }
 .team1 .subtitle1,
 .person-info .subtitle1,
@@ -707,7 +708,7 @@ blockquote {
   font-family: 'Noto Sans', sans-serif;
 }
 .features9 .timeline-panel h4 {
-  font-family: undefined;
+  font-family: 'Arvo', serif;
 }
 .features9 .timeline-panel p {
   font-family: 'Noto Sans', sans-serif;
@@ -959,8 +960,6 @@ blockquote {
   color: #000000;
 }
 
-
-
 #menu-q .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1029,23 +1028,13 @@ blockquote {
 #menu-q .dropdown-item[aria-expanded="true"] {
   color: #c0392b!important;
 }
-#header11-s H1 {
-  font-family: 'Arvo', serif;
-  font-size: 84px;
+#header4-1o .display-1 {
+  font-weight: 700;
 }
-#content3-w .mbr-section-title,
-#content3-w .mbr-section-subtitle {
-  text-align: center;
-}
-#content3-w B {
-  font-size: 24px;
-  color: #c0392b;
-}
-#contacts3-t .mbr-section-title {
-  font-family: 'Arvo', serif;
-}
-#contacts3-t .mbr-section-subtitle {
-  color: #c0392b;
+#header4-1o .lead {
+  color: #fff;
+  text-transform: uppercase;
+  margin-bottom: 0;
 }
 #footer1-r .mbr-section-subtitle,
 #footer1-r .mbr-section-text {
