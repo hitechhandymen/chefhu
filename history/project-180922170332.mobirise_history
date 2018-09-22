@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Chef Fu's",
-    "currentPage": "index.html",
+    "currentPage": "reservations.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -163,7 +163,7 @@
             "showText": false,
             "showButtons": false,
             "buttonAlign": "right",
-            "showArrow": false,
+            "showArrow": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/bannerimage2-2000x2815.jpg",
             "parallax": true,
@@ -1906,7 +1906,7 @@
           },
           "title1": "748 East Chatham St. \nSuite E, Cary NC 27511",
           "title2": "+1-919-883-5567",
-          "title3": "chengdu7nc@gmail.com",
+          "title3": "sample@sample.us",
           "cat1": "<b>address</b>",
           "cat2": "<b>phone</b>",
           "cat3": "<b>email</b>",
